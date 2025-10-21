@@ -185,7 +185,7 @@ You can click any issue to see the file path, line number, and suggested fixes.
 
 
 
-
+<img width="1515" height="736" alt="Image" src="https://github.com/user-attachments/assets/2625bcb7-cf6e-4607-90df-3e381101b859" />
 
 
 
